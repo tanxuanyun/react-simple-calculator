@@ -1,0 +1,23 @@
+.operation{
+    background-color: #fbfbfb;
+    color: black;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.reset{
+    background-color: #ea870e;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+
+.buttons{
+    display: flex;
+    gap: 10px;
+}
